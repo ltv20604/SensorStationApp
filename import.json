@@ -1,0 +1,20 @@
+{
+  "sensor_data": {
+    "Quận 1": {
+      "humidity": 40.9,
+      "rainLevel": 5.6,
+      "switchStatus": true,
+      "temperature": 23.5,
+      "timestamp": "2025-10-19T08:51:40.209Z",
+      "windSpeed": 8.9
+    },
+    "Quận 2": {
+      "humidity": 59.6,
+      "rainLevel": 4.9,
+      "switchStatus": true,
+      "temperature": 27.6,
+      "timestamp": "2025-10-19T08:51:40.443Z",
+      "windSpeed": 9.1
+    }
+  }
+}
